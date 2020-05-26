@@ -22,6 +22,8 @@ Run the scripts in the following order:
 - python aggregate_stock_sector_data.py
     - This is optional, but if you'd like all the data to be in one csv file, run this script (this will contain all historical data with the stock name and industry/sector that it is in). 
 
+# Contributions
+
 | Name  | Contributions |
 | ------------- | ------------- |
 | Pranav Lodha  | Developer |
